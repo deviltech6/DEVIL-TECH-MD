@@ -1,44 +1,42 @@
-#DEVIL TECH MD V1 WHATSAPP BOT
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=200&lines=DEVIL-TECH-MD" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=B700FB&center=true&width=1000&height=200&lines=KHAN-MD-V3.0" alt="Typing SVG" /></a>
   </p>
   
 ---  
 
-> **`Updated To` The Version 1.0**
+> **`Updated To` The Version 3.0**
 ---
 
 ```
-DEVIL TECH MD POWERED BY CYBER LOKU ASHUU 💗 
+KHAN-MD BY JawadTechX 💜 
 ```
 
 --- 
 
-<a><img src='https://files.catbox.moe/ox4pzj.jpg'/></a>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/juroe8.jpg'/></a>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/lokuashuu"><img title="Developer" src="https://img.shields.io/badge/Author-Jawad%20TechX-FF7604.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/JawadYTX"><img title="Developer" src="https://img.shields.io/badge/Author-Jawad%20TechX-FF7604.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
   
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029Vb4HJcD4inowFiwWsY1S)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{DEVIL-TECH}/count.svg" alt="lokuashuu :: Visitor's Count" old_src="https://profile-counter.glitch.me/{lokuashuu}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{KHAN-MD}/count.svg" alt="JawadYTX :: Visitor's Count" old_src="https://profile-counter.glitch.me/{JawadYTX}/count.svg" /></p>
 
 
 <p align="center">
-<a href="https://github.com/lokuashuu/DEVIL-TECH"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=DEVIL-TECH&label=VIEWS&style=square&color=blue" />
+<a href="https://github.com/JawadYTX/KHAN-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=KHAN-MD&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
 
 <p align="center">
-  <a href="https://github.com/lokuashuu/DEVIL-TECH"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/JawadYTX/KHAN-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 
@@ -48,7 +46,7 @@ DEVIL TECH MD POWERED BY CYBER LOKU ASHUU 💗
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/lokuashuu/DEVIL-TECH/fork"><img title="DEVIL-TECH" src="https://img.shields.io/badge/FORK-DEVIL-TECH?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/JawadYTX/KHAN-MD/fork"><img title="KHAN-MD" src="https://img.shields.io/badge/FORK-KHAN MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
@@ -86,14 +84,21 @@ You will need a session ID to run the KHAN-MD. Click the button below to obtain 
 
 
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/lokuashuu/DEVIL-TECH/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/JawadYTX/KHAN-MD/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
-<h4 align="center">4. koyed</h4>
+<h4 align="center">2. TaikDrove Free</h4>
 <p style="text-align: center; font-size: 1.2em;">
-
   
 <p align="center">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=lokuashuu/DEVIL-TECH&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20KHAN-MD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://host.talkdrove.com/share-bot/82' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-TaikDrove ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
+
+* Create TaikDrove <a href="https://host.talkdrove.com/auth/signup?ref=5E95F1DA">Click Here</a>
+
+<h4 align="center">3. Koyeb</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+<p align="center">
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=JawadYTX/KHAN-MD&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20KHAN-MD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
 
 <h4 align="center">4. Railway</h4>
 <p style="text-align: center; font-size: 1.2em;">
@@ -106,32 +111,41 @@ You will need a session ID to run the KHAN-MD. Click the button below to obtain 
   
 <p align="center">
 <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=150 height=28/p></a>
+
+<h4 align="center">6. Netlify</h4>
+<p style="text-align: center; font-size: 1.2em;">
+  
+<p align="center">
+<a href='https://app.netlify.com/' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-Netlify Deploy-CC00FF?style=for-the-badge&logo=netlify&logoColor=white'/< width=150 height=28/p></a> </a>
+
+<h4 align="center">7. Replit</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+<p align="center">
+<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> </a>
  
-
-
  <h4 align="center">8. Workflow</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
-
-* Workflow Codes <a href="https://whatsapp.com/channel/0029Vb4HJcD4inowFiwWsY1S">Click Here</a>
+* Workflow Codes <a href="https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j/851">Click Here</a>
 
 
 
 ---
 
-## 🔗 DEVIL-TECH INFO
+## 🔗 KHAN-MD INFO
 
 ---
 
   <p align="center">
-<a href="https://github.com/lokuashuu/followers"><img title="Followers" src="https://img.shields.io/github/followers/lokuashuu?color=blue&style=square"></a>
-<a href="https://github.com/lokuashuu/DEVIL-TECH/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/lokuashuu/DEVIL-TECH?color=blue&style=square"></a>
-<a href="https://github.com/lokuashuu/DEVIL-TECH/network/members"><img title="Forks" src="https://img.shields.io/github/forks/lokuashuu/DEVIL-TECH?color=blue&style=square"></a>
-<a href="https://github.com/lokuashuu/DEVIL-TECH/"><img title="Size" src="https://img.shields.io/github/repo-size/lokuashuu/DEVIL-TECH?style=square&color=green"></a>
-<a href="https://github.com/lokuashuu/DEVIL-TECH/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/JawadYTX/followers"><img title="Followers" src="https://img.shields.io/github/followers/JawadYTX?color=blue&style=square"></a>
+<a href="https://github.com/JawadYTX/KHAN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/JawadYTX/KHAN-MD?color=blue&style=square"></a>
+<a href="https://github.com/JawadYTX/KHAN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/JawadYTX/KHAN-MD?color=blue&style=square"></a>
+<a href="https://github.com/JawadYTX/KHAN-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/JawadYTX/KHAN-MD?style=square&color=green"></a>
+<a href="https://github.com/JawadYTX/KHAN-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 
  <p align="center">
-<a href="https://github.com/lokuashuu/DEVIL-TECH/blob/main/LICENSE"><img title="Followers" src="https://img.shields.io/github/license/lokuashuu/DEVIL-TECH?color=green&label=License&style=square"></a>
+<a href="https://github.com/JawadYTX/KHAN-MD/blob/main/LICENSE"><img title="Followers" src="https://img.shields.io/github/license/JawadYTX/KHAN-MD?color=green&label=License&style=square"></a>
 
 ----
 
@@ -141,7 +155,7 @@ You will need a session ID to run the KHAN-MD. Click the button below to obtain 
 
 Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
 
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb4HJcD4inowFiwWsY1S)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j)
 
 ---
 
@@ -167,9 +181,12 @@ Stay connected with the latest updates and community by joining our official Wha
 
 ---
 
-> DEVIL-TECH Owner 
-- [CYBER LOKU ASHUU](https://github.com/lokuashuu)
-- Creater and Owner Of DEVIL-TECH
+> KHAN-MD Owner 
+- [JawadTechX](https://github.com/JawadYTX)
+- Creater and Owner Of KHAN-MD
+> KHAN-MD Helpers 
+- [ROMEKTRICKS](https://github.com/ROMEKTRICKS)
+- For helping in bot plugin files.
   
 ---
 
