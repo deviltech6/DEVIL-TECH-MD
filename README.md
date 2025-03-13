@@ -11,7 +11,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=0000FF&center=true&width=910&height=100&lines=MULTI+DEVICE+WHATSAPP+BOT;POWERED+BY+CYBER+SOCIETY;AND+CYBER+LOKU+ASHUU" alt="Typing SVG" />
   </a> 
   
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/ox4pzj.jpg'/></a>
 
 
 > **`Updated To` The Version 1.0.0**
@@ -35,20 +35,20 @@ DEVIL-TECH-MD BY CYBER ASHUU 💜
 
 <div align="center">
   
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029Vb9u0GQ8qIzmoGPEtq0s)
 </div>
 
  <p align="center"><img src="https://profile-counter.glitch.me/{DEVIL-TECH-MD}/count.svg" alt="deviltech6 :: Visitor's Count" old_src="https://profile-counter.glitch.me/{deviltech6}/count.svg" /></p>
 
 
 <p align="center">
-<a href="https://github.com/JawadYTX/KHAN-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
+<a href="https://github.com/deviltech6/DEVIL-TECH-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=DEVIL-TECH-MD&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
 
 <p align="center">
-  <a href="https://github.com/JawadYTX/KHAN-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/deviltech6/DEVIL-TECH-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 
@@ -58,7 +58,7 @@ DEVIL-TECH-MD BY CYBER ASHUU 💜
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/JawadYTX/KHAN-MD/fork"><img title="DEVIL-TECH-MD" src="https://img.shields.io/badge/FORK-DEVIL-TECH MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/deviltech6/DEVIL-TECH-MD/fork"><img title="DEVIL-TECH-MD" src="https://img.shields.io/badge/FORK-DEVIL-TECH MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
