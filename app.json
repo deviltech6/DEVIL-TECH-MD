@@ -1,8 +1,8 @@
 {
-  "name": "DEVIL-TECH",
-  "description": "Javascript WhatsApp bot made by ᴄʏʙᴇʀ ʟᴏᴋᴜ ᴀꜱʜᴜᴜ",
+  "name": "DEVIL-TECH-MD",
+  "description": "Javascript WhatsApp bot made by deviltech6",
   "logo": "https://files.catbox.moe/qeo9im.jpg",
-  "keywords": ["DEVIL-TECH"],
+  "keywords": ["DEVIL-TECH-MD"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "DEVIL-TECH-MD"
     }, 
       
     "PREFIX": {
@@ -79,27 +79,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY KHAN-MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY DEVIL-TECH-MD 🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ᴄʏʙᴇʀ ʟᴏᴋᴜ ᴀꜱʜᴜᴜ"
+      "value": "𝚌𝚢𝚋𝚎𝚛𝚊𝚜𝚑𝚞𝚞"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "92310344XXXX"
+      "value": "9476009XXXX"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "DEVIL-TECH"
+      "value": "DEVIL-TECH-MD"
 
       }, 
 
