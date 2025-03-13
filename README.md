@@ -11,7 +11,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=0000FF&center=true&width=910&height=100&lines=MULTI+DEVICE+WHATSAPP+BOT;POWERED+BY+CYBER+SOCIETY;AND+CYBER+LOKU+ASHUU" alt="Typing SVG" />
   </a> 
   
-<a><img src='https://files.catbox.moe/ox4pzj.jpg'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 > **`Updated To` The Version 1.0.0**
@@ -24,7 +24,7 @@ DEVIL-TECH-MD BY CYBER ASHUU 💜
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<a><img src='https://files.catbox.moe/qeo9im.jpg'/></a>
+<a><img src='https://files.catbox.moe/ox4pzj.jpg'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
