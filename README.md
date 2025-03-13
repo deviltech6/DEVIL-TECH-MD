@@ -1,14 +1,12 @@
-#📍𝐀𝐒𝐇𝐔𝐔-𝐌𝐃-𝐕1 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓   💗
-
-## 𝐀𝐒𝐇𝐔𝐔 𝐌𝐃 𝐁𝐎𝐓 𝐂𝐑𝐄𝐀𝐓𝐄 𝐁𝐘 𝐂𝐘𝐁𝐄𝐑 𝐋𝐎𝐊𝐔 𝐀𝐒𝐇𝐔𝐔...📍
+#📍𝐃𝐄𝐕𝐈𝐋-𝐓𝐄𝐂𝐇-𝐌𝐃-𝐕1 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓   💗
 
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=200&lines=𝙳𝙴𝚅𝙸𝙻-𝚃𝙴𝙲𝙷-𝙼𝙳-𝚅1.0" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=200&lines=𝙳𝙴𝚅𝙸𝙻-𝚃𝙴𝙲𝙷-𝙼𝙳-𝚅1" alt="Typing SVG" /></a>
   </p>
   
 <div align="center"> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=FF0000&center=true&width=910&height=100&lines=MULTI+DEVICE+WHATSAPP+BOT;POWERED+BY+CYBER+SOCIETY+AND;CYBER+LOKU+ASHUU" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=FF0000&center=true&width=910&height=100&lines=MULTI+DEVICE+WHATSAPP+BOT;POWERED+BY+CYBER+SOCIETY;AND+CYBER+LOKU+ASHUU" alt="Typing SVG" />
   </a> 
   
 ---  
