@@ -3,26 +3,31 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=200&lines=𝙳𝙴𝚅𝙸𝙻-𝚃𝙴𝙲𝙷-𝙼𝙳-𝚅1" alt="Typing SVG" /></a>
   </p>
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
   
 <div align="center"> 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=0000FF&center=true&width=910&height=100&lines=MULTI+DEVICE+WHATSAPP+BOT;POWERED+BY+CYBER+SOCIETY;AND+CYBER+LOKU+ASHUU" alt="Typing SVG" />
   </a> 
   
----  
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
 > **`Updated To` The Version 1.0.0**
----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ```
 DEVIL-TECH-MD BY CYBER ASHUU 💜 
 ```
 
---- 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
 <a><img src='https://files.catbox.moe/qeo9im.jpg'/></a>
 
----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
 <p align="center">
   <a href="https://github.com/deviltech6"><img title="Developer" src="https://img.shields.io/badge/Author-devil%20tech-FF7604.svg?style=big-square&logo=github" /></a>
@@ -80,11 +85,13 @@ You will need a session ID to run the KHAN-MD. Click the button below to obtain 
 </a>
 <br> 
 
----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
 <h2 align="center">Deployment Section</h2>
 
----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
 <h4 align="center">1. Heroku</h4>
 <p style="text-align: center; font-size: 1.2em;">
@@ -138,11 +145,13 @@ You will need a session ID to run the KHAN-MD. Click the button below to obtain 
 
 
 
----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 🔗 KHAN-MD INFO
 
----
+## 🔗 DEVIL-TECH-MD INFO
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
   <p align="center">
 <a href="https://github.com/JawadYTX/followers"><img title="Followers" src="https://img.shields.io/github/followers/JawadYTX?color=blue&style=square"></a>
@@ -154,45 +163,54 @@ You will need a session ID to run the KHAN-MD. Click the button below to obtain 
  <p align="center">
 <a href="https://github.com/JawadYTX/KHAN-MD/blob/main/LICENSE"><img title="Followers" src="https://img.shields.io/github/license/JawadYTX/KHAN-MD?color=green&label=License&style=square"></a>
 
-----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
 ## 🌐 WhatsApp Channel 
 
----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
 Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
 
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j)
 
----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
 <h2 align="left">⚠️ Reminder</h2>
 <p style="text-align: center; font-size: 1.2em;">
   
-----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 - **Disclaimer:** This bot is not affiliated with `WhatsApp Inc.`. Use it at your own risk.
 - Misusing the bot may result in your `WhatsApp` account being banned. Note that you can only unban your account once.
 - I am not responsible for any bans or misuse of the bot. Please keep this warning in mind before proceeding.
 
----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
 <h2 align="left">ℹ️ Notice</h2>
 <p style="text-align: center; font-size: 1.2em;">
   
----  
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
   Not For Sale - If any plugin's code is obfuscated, you do not have permission to edit it in any form. Please remember to give credit if you are using or re-uploading my plugins/files. Wishing you a wonderful day ahead!</p>
   
----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
 <h2 align="center">🔰 Credit Section 🔰 </h2>
 
----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-> KHAN-MD Owner 
-- [JawadTechX](https://github.com/JawadYTX)
-- Creater and Owner Of KHAN-MD
-> KHAN-MD Helpers 
-- [ROMEKTRICKS](https://github.com/ROMEKTRICKS)
+
+> DEVIL-TECH-MD Owner 
+- [deviltech6](https://github.com/deviltech6)
+- Creater and Owner Of DEVIL-TECH-MD
+
+> DEVIL-TECH-MD Helpers 
+- [CYBER SOCIETY TEAM AND TDD](https://github.com/deviltech6)
 - For helping in bot plugin files.
   
 ---
