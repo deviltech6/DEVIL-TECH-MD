@@ -2,31 +2,32 @@
 
 ## 𝐀𝐒𝐇𝐔𝐔 𝐌𝐃 𝐁𝐎𝐓 𝐂𝐑𝐄𝐀𝐓𝐄 𝐁𝐘 𝐂𝐘𝐁𝐄𝐑 𝐋𝐎𝐊𝐔 𝐀𝐒𝐇𝐔𝐔...📍
 
-<div align="center"> 
-  <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=FF0000&center=true&width=910&height=100&lines=ASHUU-MD-V1;MULTI+DEVICE+WHATSAPP+BOT;POWERED+BY+CYBER+SOCIETY" alt="Typing SVG" />
-  </a> 
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=200&lines=𝙳𝙴𝚅𝙸𝙻-𝚃𝙴𝙲𝙷-𝙼𝙳-1.0" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=200&lines=𝙳𝙴𝚅𝙸𝙻-𝚃𝙴𝙲𝙷-𝙼𝙳-𝚅1.0" alt="Typing SVG" /></a>
   </p>
+  
+<div align="center"> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=FF0000&center=true&width=910&height=100&lines=MULTI+DEVICE+WHATSAPP+BOT;POWERED+BY+CYBER+SOCIETY+AND;CYBER+LOKU+ASHUU" alt="Typing SVG" />
+  </a> 
   
 ---  
 
-> **`Updated To` The Version 3.0**
+> **`Updated To` The Version 1.0.0**
 ---
 
 ```
-KHAN-MD BY JawadTechX 💜 
+DEVIL-TECH-MD BY CYBER ASHUU 💜 
 ```
 
 --- 
 
-<a><img src='https://files.catbox.moe/juroe8.jpg'/></a>
+<a><img src='https://files.catbox.moe/qeo9im.jpg'/></a>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/JawadYTX"><img title="Developer" src="https://img.shields.io/badge/Author-Jawad%20TechX-FF7604.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/deviltech6"><img title="Developer" src="https://img.shields.io/badge/Author-devil%20tech-FF7604.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
@@ -34,12 +35,12 @@ KHAN-MD BY JawadTechX 💜
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{KHAN-MD}/count.svg" alt="JawadYTX :: Visitor's Count" old_src="https://profile-counter.glitch.me/{JawadYTX}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{DEVIL-TECH-MD}/count.svg" alt="deviltech6 :: Visitor's Count" old_src="https://profile-counter.glitch.me/{deviltech6}/count.svg" /></p>
 
 
 <p align="center">
 <a href="https://github.com/JawadYTX/KHAN-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=KHAN-MD&label=VIEWS&style=square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=DEVIL-TECH-MD&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
 
@@ -54,7 +55,7 @@ KHAN-MD BY JawadTechX 💜
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/JawadYTX/KHAN-MD/fork"><img title="KHAN-MD" src="https://img.shields.io/badge/FORK-KHAN MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/JawadYTX/KHAN-MD/fork"><img title="DEVIL-TECH-MD" src="https://img.shields.io/badge/FORK-DEVIL-TECH MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
