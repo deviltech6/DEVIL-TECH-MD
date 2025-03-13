@@ -15,7 +15,7 @@
 
 
 > **`Updated To` The Version 1.0.0**
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+---
 
 ```
 DEVIL-TECH-MD BY CYBER ASHUU 💜 
