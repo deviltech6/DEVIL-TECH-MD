@@ -2,15 +2,24 @@
 
 
 
-  <p align="center">
-<a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/itx-alii-raza?color=blue&style=flat-square"></a>
-<a href="https://github.com/deviltech6/DEVIL-TECH-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/itx-alii-raza/ALI-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/deviltech6/DEVIL-TECH-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/itx-alii-raza/ALI-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/deviltech6/DEVIL-TECH-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/itx-alii-raza/ALI-MD?style=flat-square&color=green"></a>
-<a href="https://github.com/deviltech6/DEVIL-TECH-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<div align="center">
+  
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j)
+</div>
+
+ <p align="center"><img src="https://profile-counter.glitch.me/{KHAN-MD}/count.svg" alt="JawadYTX :: Visitor's Count" old_src="https://profile-counter.glitch.me/{JawadYTX}/count.svg" /></p>
+
+
+<p align="center">
+<a href="https://github.com/JawadYTX/KHAN-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=KHAN-MD&label=VIEWS&style=square&color=blue" />
 </p>
-<p align='center'>
+</p> 
+
+<p align="center">
+  <a href="https://github.com/JawadYTX/KHAN-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
+---
 
 > **CURRENT BOT VERSION ➜ `1.0.0 ⚡`**
 ---
